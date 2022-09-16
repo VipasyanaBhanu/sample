@@ -1,0 +1,5 @@
+datatypes in python
+
+int
+string
+boolean
